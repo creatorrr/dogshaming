@@ -1,0 +1,35 @@
+{
+	    "name": "dogshaming",
+	    "description": "Gets random pic from dogshaming.com",
+	    "version": "0.0.1",
+	    "author" : "Diwank Singh",
+	    "maintainers":[
+		        {
+		            "name":"creatorrr",
+		            "email":"singh@diwank.name"
+		        }
+		    ],
+	   "homepage": "http://github.com/creatorrr/dogshaming",
+	   "repository" : {
+			        "type" : "git",
+			        "url" : "http://github.com/creatorrr/dogshaming.git"
+				    },
+	   "licenses" : [
+		        {
+		            "type": "MIT",
+		            "url": "http://github.com/creatorrr/dogshaming/blob/master/LICENSE"
+		        }
+			    ],
+	   "devDependencies": {
+			        "nodeunit": "*"
+					    },
+	   "dependencies": {
+			        "nodepie":    "0.5.x",
+					"node-expat": "2.0.x"
+				    },
+	   "engines": {
+		   "node": ">= 0.6.0",
+		   "npm": ">= 1.0.0"
+	   },
+	   "keywords": ["dogshaming", "rss", "hubot"]
+}
