@@ -25,7 +25,7 @@
 					    },
 	   "dependencies": {
 			        "nodepie":    "0.5.x",
-					"node-expat": "2.0.x"
+					"node-expat": "1.6.1"
 				    },
 	   "engines": {
 		   "node": ">= 0.6.0",
