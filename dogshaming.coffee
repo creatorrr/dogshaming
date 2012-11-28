@@ -3,7 +3,11 @@
 #
 # Dependencies:
 #   - nodepie: >= 0.5.x
-#   - node-expat: >= 2.0.0
+#   - node-expat: 1.6.1
+#
+# Engines:
+#   - node: >= 0.8.0
+#   - npm: >= 1.1.0
 #
 # Configuration:
 #   None
